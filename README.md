@@ -1,3 +1,3 @@
-# data_science_projects
-## editing the file
-it is markdown in this repository
+# Data_science_projects
+## Analyzing Historical Stock/Revenue Data and Building a Dashboard
+
