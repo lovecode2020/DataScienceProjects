@@ -1,4 +1,4 @@
-# Data_science_projects
+# DataScienceProjects
 ## Final project Python for data science 
 * Analyzing Historical Stock/Revenue Data and Building a Dashboard
 ## Final project of Data Analysis
